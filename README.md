@@ -1,8 +1,12 @@
+> [!NOTE]  
+> EEAgent was made at hackaTUM24, the official hackathon of the Department of Computer Science at the Technical University of Munich, and won the 2nd place at the
+> JetBrains Challange!
+
 # EEAgent
 
 An OpenAI based JetBrains Plugin that fixes all errors in a file by precompiling the fixed code. This way you can be sure not to run into even more errors while trying to fix your code with LLMs.
 
-> [!NOTE]  
+> [!IMPORTANT]  
 > This project was made as a part of the JetBrains Challange at hackaTUM 2024. This plugin was created in less than 36 hours and therefore does not aim to be a perfect plugin.
 
 ## Inspiration
